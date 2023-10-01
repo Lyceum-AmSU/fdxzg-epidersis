@@ -1,2 +1,2 @@
 #!/bin/sh
-python python_script.py
+python test_task1.py
