@@ -8,6 +8,26 @@
       "output": "6",
       "comparison": "included",
       "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "2_test",
+      "setup": "",
+      "run": "python test_task2.py",
+      "input": "qwerty",
+      "output": "ytrewq",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "1_test_2",
+      "setup": "",
+      "run": "python test_task1.py",
+      "input": "78\r\n12",
+      "output": "90",
+      "comparison": "exact",
+      "timeout": 10,
       "points": 10
     }
   ]
